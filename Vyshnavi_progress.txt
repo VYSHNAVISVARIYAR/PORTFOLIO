@@ -1,0 +1,5 @@
+day 1 : 06-02-2025
+
+Learned :flex
+Implemented : flex.
+challenges faced :I am studying this topic for the first time.I understood the concept but need some time to implement it by myself.

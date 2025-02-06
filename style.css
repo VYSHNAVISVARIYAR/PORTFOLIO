@@ -1,0 +1,28 @@
+body{
+    margin:0;
+    color:white;
+}
+
+h1{
+    margin:0;
+}
+
+.container{
+    background-color:lightgrey;
+    display:flex;
+    flex-direction:row;
+    justify-content:space-around;
+    align-items:center;
+    height:400px;
+}
+
+.one,.two,.three{
+    width:200px;
+    height:200px;
+    background-color:rgb(169, 145, 145);
+    border:2px solid whitesmoke;
+    text-align:center;
+    padding:4px;
+    box-shadow: 0 4px 8px snow;
+    text-decoration-line: underline;
+}
